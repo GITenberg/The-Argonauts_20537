@@ -1,0 +1,35 @@
+_repo: The-Argonauts_20537
+_version: 0.1.0
+alternative_title: Argonauci. English
+contributor:
+  translator:
+    agent_name: Curtin, Jeremiah
+    birthdate: 1835
+    deathdate: 1906
+    gutenberg_agent_id: '1053'
+    url: http://www.gutenberg.org/2009/agents/1053
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Orzeszkowa, Eliza
+    birthdate: 1842
+    deathdate: 1910
+    gutenberg_agent_id: '9367'
+    url: http://www.gutenberg.org/2009/agents/9367
+    wikipedia: http://en.wikipedia.org/wiki/Eliza_Orzeszkowa
+description: ''
+gutenberg_issued: '2007-02-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20537'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Polish fiction -- Translations into English'
+- !lcc 'PG'
+title: The Argonauts
+url: http://www.gutenberg.org/ebooks/20537
